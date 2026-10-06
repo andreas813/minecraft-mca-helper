@@ -1,3 +1,6 @@
+Note:
+Historical tool script from mid 2022.
+
 Purpose:
 Convert rectangular MCA-coordinate areas into the list of
 region filenames that must be deleted/reset.
